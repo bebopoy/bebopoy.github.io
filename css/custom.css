@@ -73,3 +73,8 @@
 #blog_name #site-name:hover span:nth-child(10) {
     transition-delay: 1s
 }
+#tag #tag-page-tags {
+    display: flex;
+    flex-flow: row wrap;
+    margin: 0px -0.75rem 1rem;
+}
