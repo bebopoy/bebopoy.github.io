@@ -1,106 +1,107 @@
 export const siteConfig = {
-  author: 'Rock Chen',
-  title: 'Rock Chen - Blog',
-  description: 'My blog site.',
-  lang: 'zh-CN',
-}
+  author: "Hutiger",
+  title: "Hutiger- Blog",
+  description: "My blog site.",
+  lang: "zh-CN",
+};
 
 export const subNavLinks = [
   {
-    title: 'Blog',
-    path: '/blog',
+    title: "Blog",
+    path: "/blog",
   },
   {
-    title: 'Life',
-    path: '/life',
+    title: "Life",
+    path: "/life",
   },
   {
-    title: 'Record',
-    path: '/record',
+    title: "Record",
+    path: "/record",
   },
-]
+];
 
 export const navLinks = [
   {
-    title: 'Blog',
-    path: '/blog',
-    icon: 'i-icon-park-outline-align-text-right-one',
-  },
-  {
-    title: 'Projects',
-    path: '/projects',
-    icon: 'i-icon-park-outline-blocks-and-arrows',
-  },
-  {
-    title: 'Tags',
-    path: '/tags',
-    icon: 'i-icon-park-outline-tag-one',
-  },
-  {
-    title: 'Search',
-    path: '/search',
-    icon: 'i-icon-park-outline-search',
-  },
-  {
-    title: 'About',
-    path: '/',
-    icon: 'i-icon-park-outline-grinning-face-with-open-mouth',
+    title: "Blog",
+    path: "/blog",
+    icon: "i-icon-park-outline-align-text-right-one",
   },
 
-]
+  {
+    title: "Tags",
+    path: "/tags",
+    icon: "i-icon-park-outline-tag-one",
+  },
+  {
+    title: "Search",
+    path: "/search",
+    icon: "i-icon-park-outline-search",
+  },
+  {
+    title: "links",
+    path: "/links",
+    icon: "i-icon-park-outline-blocks-and-arrows",
+  },
+  {
+    title: "Me",
+    path: "/",
+    icon: "i-icon-park-outline-grinning-face-with-open-mouth",
+  },
+];
 
 export const socialLinks = [
   {
-    title: '掘金',
-    path: 'https://juejin.cn/user/3826745248595550',
-    icon: 'i-simple-icons-juejin',
+    title: "mail",
+    path: "mailto:2532725615@shu.edu.cn",
+    icon: "i-simple-icons-protonmail",
   },
   {
-    title: 'Bilibili',
-    path: 'https://space.bilibili.com/3850132',
-    icon: 'i-simple-icons-bilibili',
+    title: "Bilibili",
+    path: "https://space.bilibili.com/620515802",
+    icon: "i-simple-icons-bilibili",
   },
   {
-    title: 'Twitter',
-    path: 'https://twitter.com/Rockchen97',
-    icon: 'i-simple-icons-twitter',
+    title: "orcid",
+    path: "https://orcid.org/0009-0009-1795-8446",
+    icon: "i-simple-icons-orcid",
   },
   {
-    title: 'Github',
-    path: 'https://github.com/chansee97',
-    icon: 'i-icon-park-outline-github',
+    title: "Github",
+    path: "https://github.com/hutiger9",
+    icon: "i-icon-park-outline-github",
   },
-]
+];
 
 export const projectList = [
   {
-    name: 'Projects',
+    name: "",
     content: [
       {
-        name: 'Nuxt Blog',
-        desc: 'My blog site, base on Nuxt',
-        path: 'https://github.com/chansee97/nuxt-blog',
+        name: "niina cheng",
+        desc: "座右铭：草岚这个世界",
+        avatar: "https://blog.niina.fun/avatar.png",
+        path: "https://blog.niina.fun",
       },
-      {
-        name: 'Nova Admin',
-        desc: 'a complete admin template',
-        path: 'https://github.com/chansee97/nova-admin',
-      },
-      {
-        name: 'Nova Admin Nest',
-        desc: 'The nest backend for nova admin',
-        path: 'https://github.com/chansee97/nove-admin-nest',
-      },
+      //   {
+      //     name: 'Nova Admin',
+      //     desc: 'a complete admin template',
+      //     path: 'https://github.com/chansee97/nova-admin',
+      //   },
+      //   {
+      //     name: 'Nova Admin Nest',
+      //     desc: 'The nest backend for nova admin',
+      //     path: 'https://github.com/chansee97/nove-admin-nest',
+      //   },
     ],
   },
-  {
-    name: 'Starter',
-    content: [
-      {
-        name: 'Virtuoso',
-        desc: 'My simply vue starter',
-        path: 'https://github.com/chansee97/virtuoso',
-      },
-    ],
-  },
-]
+  // {
+  //   name: 'friends',
+  //   content: [
+  //     // {
+  //     //   name: 'Virtuoso',
+  //     //   desc: 'My simply vue starter',
+  //     //   path: 'https://github.com/chansee97/virtuoso',
+  //     // },
+  //   ],
+  // },
+];
