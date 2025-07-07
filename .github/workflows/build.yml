@@ -5,10 +5,10 @@ env:
 
 on:
   pull_request:
-    branches: [main]
+    branches: [master]
 
   push:
-    branches: [main]
+    branches: [master]
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -30,11 +30,11 @@ jobs:
 
       - name: verify pnpm
         run: pnpm -v
-      
+
       - name: setup node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: verify node.js
         run: node -v
@@ -59,7 +59,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: .output/public
-  
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
