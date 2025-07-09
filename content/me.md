@@ -1,56 +1,62 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/bebopoy/bebopoy.github.io/master/content/image/time%26game.png"
-       alt="Time & Game"
-       width="250"
-       style="max-width:100%;">
+       alt="bebopoy"
+       width="200"
+       style="max-width:100%; border-radius: 8px;">
 </div>
 
-# Hello, I'm Xiangtong Nie 👋
+# Hello, I'm Xiangtong Nie
 
-**CS Junior | Bass Beginner | Photo Lover | Grad School Applicant**
+**Junior in AI & CS | Aspiring Bassist | Street Photography Enthusiast | Grad School Applicant**
 
-I'm a third-year Computer Science student at Shanghai University, currently applying for graduate programs. When I'm not buried in algorithms or application materials, you can usually find me:
+I'm a third-year Intelligent Science and Technology student at Shanghai University, currently preparing for graduate school admission. When I'm not coding or working on research projects, you'll often find me:
 
-- 🎸 Practicing bass (still learning but loving every minute of it!)
-- 📸 Collecting photography books - especially street photos that capture real life
-- 🎵 Listening to all kinds of music, from jazz to rock
-- 📚 Preparing for my graduate studies (wish me luck!)
+- 🎸 Learning bass (still a beginner but enjoying every practice session!)
+- 📸 Collecting street photography that captures life's authentic moments
+- 🎵 Exploring music across genres - blues, jazz, and various rock styles
+- 📚 Working on my grad school applications (wish me luck!)
 
-This blog is where I share:
+This blog documents:
 
-- My journey learning programming and music
-- Cool photos I discover
-- Thoughts on CS and my grad school application process
-- Random daily adventures
+- My daily progress in programming and music
+- Interesting photography discoveries
+- Reflections on computer science studies and research
+- Life observations and personal stories
 
-I'm excited about both tech and art, and looking forward to the next chapter of my academic journey. Want to chat about coding, music, photography, or grad school applications? Feel free to reach out!
+Passionate about both technology and art, I'm excited for this next academic chapter. Feel free to reach out if you'd like to discuss:
+
+- Programming and research
+- Music recommendations
+- Photography techniques
+- Grad school preparation
 
 Email: 📨 xiangtongnie@gmail.com
 
 ---
 
-## 中文介绍
+## 你好，我是聂相桐
 
-### 你好，我是聂相桐 👋
+**智能科学与技术专业大三学生 | 贝斯新手 | 街头摄影爱好者 | 保研申请中**
 
-**计算机大三学生 | 贝斯新手 | 摄影爱好者 | 保研申请中**
-
-目前是上海大学计算机科学与技术专业的大三学生，正在准备保研申请。课余时间喜欢：
+目前是上海大学智能科学与技术专业的大三学生，正在准备保研申请。课余时间喜欢：
 
 - 🎸 练习贝斯（还在入门阶段，但弹得很开心！）
-- 📸 收集摄影集，特别喜欢有生活气息的街头摄影
-- 🎵 听各种风格的音乐，从爵士到摇滚都爱
+- 📸 收集街头摄影作品，捕捉生活的真实瞬间
+- 🎵 探索各种音乐风格，布鲁斯、爵士、各类摇滚都爱
 - 📚 准备保研材料（祝我好运吧！）
 
 这个博客会记录：
 
-- 我学习编程和音乐的日常
+- 我学习编程和音乐的日常进展
 - 发现的有趣摄影作品
-- 关于计算机学习和保研准备的思考
-- 一些生活随想和小故事
+- 对计算机科学研究和学习的思考
+- 生活观察和个人随笔
 
-我对技术和艺术都充满热情，也期待即将到来的学术新阶段。如果你也对编程、音乐、摄影或保研申请感兴趣，欢迎交流！
+对技术和艺术都充满热情，正期待学术生涯的新篇章。如果你也想交流：
 
-联系邮箱：📨 xiangtongnie@gmail.com
+- 编程与研究
+- 音乐推荐
+- 摄影技巧
+- 保研准备
 
----
+欢迎联系：📨 xiangtongnie@gmail.com
