@@ -1,28 +1,35 @@
 <script setup lang="ts">
-let isDark: boolean
+// 初始化时设置为 dark
+let isDark: boolean = true;
+
+onMounted(() => {
+  // 确保初始加载时应用 dark 类
+  document.documentElement.classList.add("dark");
+});
 
 function toggleDark() {
-  const root = document.documentElement
-  isDark = root.classList.contains('dark')
-  root.classList.remove(isDark ? 'dark' : '-')
-  root.classList.add(isDark ? '-' : 'dark')
+  const root = document.documentElement;
+  isDark = root.classList.contains("dark");
+  root.classList.remove(isDark ? "dark" : "-");
+  root.classList.add(isDark ? "-" : "dark");
 }
+
 function toggleViewTransition(event: MouseEvent) {
-  const x = event.clientX
-  const y = event.clientY
+  const x = event.clientX;
+  const y = event.clientY;
   const endRadius = Math.hypot(
     Math.max(x, innerWidth - x),
-    Math.max(y, innerHeight - y),
-  )
+    Math.max(y, innerHeight - y)
+  );
   const clipPath = [
-        `circle(0px at ${x}px ${y}px)`,
-        `circle(${endRadius}px at ${x}px ${y}px)`,
-  ]
+    `circle(0px at ${x}px ${y}px)`,
+    `circle(${endRadius}px at ${x}px ${y}px)`,
+  ];
   // @ts-expect-error: Transition API
   const transition = document.startViewTransition(async () => {
-    toggleDark()
-    await nextTick()
-  })
+    toggleDark();
+    await nextTick();
+  });
 
   transition.ready.then(() => {
     document.documentElement.animate(
@@ -31,28 +38,33 @@ function toggleViewTransition(event: MouseEvent) {
       },
       {
         duration: 300,
-        easing: 'ease-in',
+        easing: "ease-in",
         pseudoElement: isDark
-          ? '::view-transition-old(root)'
-          : '::view-transition-new(root)',
-      },
-    )
-  })
+          ? "::view-transition-old(root)"
+          : "::view-transition-new(root)",
+      }
+    );
+  });
 }
 
 function toogleTheme(event: MouseEvent) {
   // @ts-expect-error: Transition API
-  const isSupport = document.startViewTransition
-    && !window.matchMedia('(prefers-reduced-motion: reduce)').matches
+  const isSupport =
+    document.startViewTransition &&
+    !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   if (!isSupport) {
-    toggleDark()
-    return
+    toggleDark();
+    return;
   }
-  toggleViewTransition(event)
+  toggleViewTransition(event);
 }
 </script>
 
 <template>
-  <div title="Toggle Color Scheme" class="dark:i-icon-park-outline-moon i-icon-park-outline-sun hover" @click="toogleTheme" />
+  <div
+    title="Toggle Color Scheme"
+    class="dark:i-icon-park-outline-moon i-icon-park-outline-sun hover"
+    @click="toogleTheme"
+  />
 </template>
