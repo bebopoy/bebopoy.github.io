@@ -1,25 +1,49 @@
-# Hutiger
+# Hello, I'm Xiangtong Nie 👋
 
-My name is Chenghu Qiu, an undergraduate student at Shanghai University.
+**CS Junior | Bass Beginner | Photo Lover | Grad School Applicant**
 
-This blog was born on a whim — a little personal corner of the internet where I can freely express myself.
-Here, I’ll be sharing moments from my life, sparks of inspiration, thoughts on learning, and maybe the occasional late-night idea.
+I'm a third-year Computer Science student at Shanghai University, currently applying for graduate programs. When I'm not buried in algorithms or application materials, you can usually find me:
 
-If you’re interested in what I share, or you’d like to chat, collaborate, or exchange ideas, feel free to reach out  📨2532725615@qq.com
+- 🎸 Practicing bass (still learning but loving every minute of it!)
+- 📸 Collecting photography books - especially street photos that capture real life
+- 🎵 Listening to all kinds of music, from jazz to rock
+- 📚 Preparing for my graduate studies (wish me luck!)
+
+This blog is where I share:
+
+- My journey learning programming and music
+- Cool photos I discover
+- Thoughts on CS and my grad school application process
+- Random daily adventures
+
+I'm excited about both tech and art, and looking forward to the next chapter of my academic journey. Want to chat about coding, music, photography, or grad school applications? Feel free to reach out!
+
+Email: 📨 xiangtongnie@gmail.com
 
 ---
-## 中文简介
 
-你好，我是 裘成虎，来自上海大学的一名本科生。
+## 中文介绍
 
-这个博客是我一时心血来潮创建的小天地，也许它不会很正式，也不会太复杂，但我希望它能一直保持真实和自由的模样。
+### 你好，我是聂相桐 👋
 
-在这里我会分享：
-- 生活的点滴记录  
-- 思维的火花碰撞  
-- 学习过程中的体会与心得  
-- 某个深夜突然浮现的灵感  
+**计算机大三学生 | 贝斯新手 | 摄影爱好者 | 保研申请中**
 
-如果你对我的内容感兴趣，或者想要交流、讨论、合作，欢迎随时联系我！
+目前是上海大学计算机科学与技术专业的大三学生，正在准备保研申请。课余时间喜欢：
+
+- 🎸 练习贝斯（还在入门阶段，但弹得很开心！）
+- 📸 收集摄影集，特别喜欢有生活气息的街头摄影
+- 🎵 听各种风格的音乐，从爵士到摇滚都爱
+- 📚 准备保研材料（祝我好运吧！）
+
+这个博客会记录：
+
+- 我学习编程和音乐的日常
+- 发现的有趣摄影作品
+- 关于计算机学习和保研准备的思考
+- 一些生活随想和小故事
+
+我对技术和艺术都充满热情，也期待即将到来的学术新阶段。如果你也对编程、音乐、摄影或保研申请感兴趣，欢迎交流！
+
+联系邮箱：📨 xiangtongnie@gmail.com
 
 ---
