@@ -52,19 +52,19 @@ export const navLinks = [
 export const socialLinks = [
   {
     title: "mail",
-    path: "mailto:2532725615@shu.edu.cn",
+    path: "mailto:xiangtongnie@gmail.com",
     icon: "i-simple-icons-protonmail",
   },
-  {
-    title: "Bilibili",
-    path: "https://space.bilibili.com/620515802",
-    icon: "i-simple-icons-bilibili",
-  },
-  {
-    title: "orcid",
-    path: "https://orcid.org/0009-0009-1795-8446",
-    icon: "i-simple-icons-orcid",
-  },
+  // {
+  //   title: "Bilibili",
+  //   path: "https://space.bilibili.com/620515802",
+  //   icon: "i-simple-icons-bilibili",
+  // },
+  // {
+  //   title: "orcid",
+  //   path: "https://orcid.org/0009-0009-1795-8446",
+  //   icon: "i-simple-icons-orcid",
+  // },
   {
     title: "Github",
     path: "https://github.com/bebopoy",
