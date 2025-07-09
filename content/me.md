@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bebopoy/bebopoy.github.io/master/content/image/time%26game.png"
+       alt="Time & Game"
+       width="250"
+       style="max-width:100%;">
+</div>
+
 # Hello, I'm Xiangtong Nie 👋
 
 **CS Junior | Bass Beginner | Photo Lover | Grad School Applicant**

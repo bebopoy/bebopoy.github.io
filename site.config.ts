@@ -1,6 +1,6 @@
 export const siteConfig = {
-  author: "Hutiger",
-  title: "Hutiger- Blog",
+  author: "bebopoy",
+  title: "bebopoy- Blog",
   description: "My blog site.",
   lang: "zh-CN",
 };
