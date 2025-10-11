@@ -18,7 +18,6 @@ I'm a third-year Intelligent Science and Technology student at Shanghai Universi
 This blog documents:
 
 - My daily progress in programming and music
-- Interesting photography discoveries
 - Reflections on computer science studies and research
 - Life observations and personal stories
 
@@ -26,7 +25,6 @@ Passionate about both technology and art, I'm excited for this next academic cha
 
 - Programming and research
 - Music recommendations
-- Photography techniques
 - Grad school preparation
 
 Email: 📨 xiangtongnie@gmail.com
@@ -46,7 +44,6 @@ Email: 📨 xiangtongnie@gmail.com
 这个博客会记录：
 
 - 我学习编程和音乐的日常进展
-- 发现的有趣摄影作品
 - 对计算机科学研究和学习的思考
 - 生活观察和个人随笔
 
@@ -54,7 +51,6 @@ Email: 📨 xiangtongnie@gmail.com
 
 - 编程与研究
 - 音乐推荐
-- 摄影技巧
 - 保研准备
 
 欢迎联系：📨 xiangtongnie@gmail.com
