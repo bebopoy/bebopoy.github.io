@@ -12,7 +12,6 @@
 I'm a third-year Intelligent Science and Technology student at Shanghai University, currently preparing for graduate school admission. When I'm not coding or working on research projects, you'll often find me:
 
 - 🎸 Learning bass (still a beginner but enjoying every practice session!)
-- 📸 Collecting street photography that captures life's authentic moments
 - 🎵 Exploring music across genres - blues, jazz, and various rock styles
 - 📚 Working on my grad school applications (wish me luck!)
 
@@ -41,7 +40,6 @@ Email: 📨 xiangtongnie@gmail.com
 目前是上海大学智能科学与技术专业的大三学生，正在准备保研申请。课余时间喜欢：
 
 - 🎸 练习贝斯（还在入门阶段，但弹得很开心！）
-- 📸 收集街头摄影作品，捕捉生活的真实瞬间
 - 🎵 探索各种音乐风格，布鲁斯、爵士、各类摇滚都爱
 - 📚 准备保研材料（祝我好运吧！）
 
