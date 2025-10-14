@@ -7,50 +7,42 @@
 
 # Hello, I'm Xiangtong Nie
 
-**Junior in AI & CS | Aspiring Bassist | Street Photography Enthusiast | Grad School Applicant**
+**Senior in AI & Computer Science | Bass Beginner | Industrial AI Explorer**
 
-I'm a third-year Intelligent Science and Technology student at Shanghai University, currently preparing for graduate school admission. When I'm not coding or working on research projects, you'll often find me:
+I'm a fourth-year Intelligent Science and Technology student at Shanghai University, focusing on exploring and implementing AI in industrial applications. In my spare time, I enjoy:
 
-- 🎸 Learning bass (still a beginner but enjoying every practice session!)
-- 🎵 Exploring music across genres - blues, jazz, and various rock styles
-- 📚 Working on my grad school applications (wish me luck!)
+- 🎸 Practicing bass (still a beginner but having a great time!)
+- 🎵 Exploring diverse music genres - blues, jazz, and various rock styles
+- 🏭 Researching industrial AI applications and real-world implementations
 
 This blog documents:
 
-- My daily progress in programming and music
-- Reflections on computer science studies and research
-- Life observations and personal stories
+- My journey in exploring and practicing industrial AI
+- Reflections on computer science research and industrial applications
+- Life observations and personal essays
 
-Passionate about both technology and art, I'm excited for this next academic chapter. Feel free to reach out if you'd like to discuss:
-
-- Programming and research
-- Music recommendations
-- Grad school preparation
+Passionate about both technology and art, I'm committed to bridging academic research with industrial implementation. Feel free to reach out if you'd like to connect:
 
 Email: 📨 xiangtongnie@gmail.com
 
 ---
 
-## 你好，我是聂相桐
+## 你好
 
-**智能科学与技术专业大三学生 | 贝斯新手 | 街头摄影爱好者 | 保研申请中**
+**智能科学与技术专业大四学生 | 贝斯新手 | 工业 AI 探索**
 
-目前是上海大学智能科学与技术专业的大三学生，正在准备保研申请。课余时间喜欢：
+目前是上海大学智能科学与技术专业的大四学生，专注于工业 AI 领域的探索与实践。课余时间喜欢：
 
 - 🎸 练习贝斯（还在入门阶段，但弹得很开心！）
 - 🎵 探索各种音乐风格，布鲁斯、爵士、各类摇滚都爱
-- 📚 准备保研材料（祝我好运吧！）
+- 🏭 深入研究工业 AI 应用与真实场景落地
 
 这个博客会记录：
 
-- 我学习编程和音乐的日常进展
-- 对计算机科学研究和学习的思考
+- 我在工业 AI 领域的探索与实践历程
+- 对计算机科学研究和工业应用的思考
 - 生活观察和个人随笔
 
-对技术和艺术都充满热情，正期待学术生涯的新篇章。如果你也想交流：
-
-- 编程与研究
-- 音乐推荐
-- 保研准备
+对技术和艺术都充满热情，致力于连接学术研究与工业落地。如果你也想交流：
 
 欢迎联系：📨 xiangtongnie@gmail.com
