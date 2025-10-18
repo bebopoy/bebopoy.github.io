@@ -2,7 +2,7 @@
 date: 2025-10-18 23:20:36
 tags:
   - Blog Link
-title: Example Post
+title: Notion Public Post
 ---
 
 ### 📝 我的 Notion 博客
