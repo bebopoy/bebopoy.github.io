@@ -1,14 +1,10 @@
 ---
-date: 2023-04-16 09:46:36
+date: 2025-10-18 23:20:36
 tags:
-  - example
+  - Blog Link
 title: Example Post
 ---
 
-## DEMO
-
-example content
-
 ### cat
 
-![](http://placekitten.com/g/200/300)
+![MY Notion Blog](https://www.notion.so/Bebopoy-s-Blog-290b551603e280408127c23ec241beed?source=copy_link)
